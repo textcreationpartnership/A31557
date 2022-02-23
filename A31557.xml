@@ -1,0 +1,550 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cabal of Romish ghosts and mortals, or, The devil deceiv'd and the sick pope</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31557</idno>
+            <idno type="STC">Wing C180</idno>
+            <idno type="STC">ESTC R5721</idno>
+            <idno type="EEBO-CITATION">13689317</idno>
+            <idno type="OCLC">ocm 13689317</idno>
+            <idno type="VID">101387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101387)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 840:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cabal of Romish ghosts and mortals, or, The devil deceiv'd and the sick pope</title>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Norman Nelson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101387:1" rendition="simple:additions"/>
+            <p>THE CABAL OF ROMISH GHOSTS, AND MORTALS: OR, THE DEVIL DECEIV'D, AND THE SICK POPE.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Norman Nelſon,</hi> at <hi>Grays</hi>-Inn-Gate in <hi>Holborn.</hi> 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101387:2"/>
+            <pb facs="tcp:101387:2"/>
+            <head>TO THE Jocoſe, or Serious, READER.</head>
+            <p>MOſt moderate Papiſts, I imagine, (as they believe) ſo they abhor the Tranſ<g ref="char:EOLhyphen"/>actions of this Age: When the ſimple Vulgar of that Sect, (being egg'd on by the florid Documents of the <hi>Romiſh</hi> Clergy) are ſo wedded to their Opi<g ref="char:EOLhyphen"/>nions, that they dare not truſt their Eye-ſight, nor Senſe, in what they actually and really behold and comprehend. They do not look through magnifying Glaſſes, but ra<g ref="char:EOLhyphen"/>ther through ſuch Glaſſes, as make Objects appear leſs than they in reality are. They will more ſafely believe, an Image ſpoke, or that the conſecrated Wafer in the Eucha<g ref="char:EOLhyphen"/>rist, leapt out of the Prieſt's Hands, becauſe he was a wicked Fellow, than to give credit to the abominable Births, brought lately forth from their Church in this Age. This Dialogue, I believe, becauſe it is a little Drolling, may by ſome be diſliked. Some will ſay perhaps, 'tis only a Flaſh in a Pan, that it is no ſerious Argumentati<g ref="char:EOLhyphen"/>on againſt the <hi>Romaniſts,</hi> but like the burning of a Paſte-board Pope, on a <hi>Gunpow<g ref="char:EOLhyphen"/>der-Treaſon.</hi> To that I Anſwer, That from this Dialogue a ſerious Argument might be made, and that though it may be Drollery, yet there may be ſome Truth in it. It is, I confeſs, a Medley of Ghosts and Mortals; but by an impartial Reader, ſome Reaſon may be picked from it, and a Man may eaſily create to himſelf a belief, that it is a Religion grounded altogether upon Policy, to fatten the Clergy, impoveriſh the Laity, and fill the Pope's Exchequer. As for Example: A Prieſt ſhall come to you, when you are almost at the point of Death, ſhall terrifie you, by a ſubtil Elo<g ref="char:EOLhyphen"/>quence, with the dreadful pains of Purgatory; and if you are a Man of an Eſtate, and of a weak-believing Capacity, you will willingly give half your Estate to the Church, to be freed from thoſe dreadful Torments. This is one way they greaze them<g ref="char:EOLhyphen"/>ſelves by, beſides by many more Exactions, Pardons, Abſolutions, <hi>&amp;c.</hi> which would be too long to inſert in an Epistle, or Preface. I ſhall conclude with <hi>Democrates Junior,</hi> in the old Edition, <hi>Page 648. Above all others,</hi> ſaith he, <hi>that High-Prieſt of</hi> Rome, <hi>the Dam of that monſtrous and ſuperſtitious Brood, the Bull-bellowing Pope, which now rageth in the Weſt, that three-headed</hi> Cerberus, <hi>hath play'd his part, whoſe Religion at this day is meer Policy, a State wholly compoſed of Superſtition and Wit, and needs nothing but Wit and Superſtition to maintain it, that uſeth Colledges and Religious Houſes, to as good purpoſe, as Forts and Caſtles, and doth more at this day by a company of ſcribling Paraſites, zealous Anachorites, hypocritical Confeſſors, and thoſe</hi> Pretorian <hi>Souldiers his</hi> Janiza<g ref="char:EOLhyphen"/>ry <hi>Jeſuits, than by any thing more ſound and ſubſtantial.</hi>
+            </p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:101387:3"/>
+            <head>The Names of the Perſons contained in this Dia<g ref="char:EOLhyphen"/>logue, are here under inſerted.</head>
+            <p>
+               <list>
+                  <item>The Ghoſt of Cardinal <hi>Woolſey.</hi>
+                  </item>
+                  <item>The Ghoſt of <hi>Ravilliack.</hi>
+                  </item>
+                  <item>The Ghoſt of <hi>England</hi>'s Guardian-Angel.</item>
+                  <item>The Ghoſt of <hi>Lucifer.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Mortals
+<list>
+                  <item>The <hi>Pope.</hi>
+                  </item>
+                  <item>A <hi>Jeſuit.</hi>
+                  </item>
+                  <item>A <hi>Traveller.</hi>
+                  </item>
+               </list>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:101387:3"/>
+            <head>The DEVIL Deceived, OR The Sick POPE.</head>
+            <stage>HIS Holineſs was in private, and in a melancholy Diſpoſition, cenſuring the long ſtay of his Infernal Envoy, whom he had ſent for <hi>England,</hi> to collogue that perverſe Nation to return to Mother-Church, when an un<g ref="char:EOLhyphen"/>expected darkneſs o'reſpread the Air; and thereupon came one imme<g ref="char:EOLhyphen"/>diately into his preſence, habited like a Cardinal, with whom the Pope had the en<g ref="char:EOLhyphen"/>ſuing Conference.</stage>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Who art thou, and whence doſt thou come?</p>
+            </sp>
+            <sp>
+               <speaker>Cardinal.</speaker>
+               <p>When I lived in the World, <hi>England</hi> was the Soyl of my Nativi<g ref="char:EOLhyphen"/>ty and Reſidence, where I was a Cardinal; and my Ambition had almoſt raiſ<g ref="char:EOLhyphen"/>ed me to the Dignity thou enjoyeſt. I had hoarded, being withal Husband good enough, to keep what I ſtole from the King my Maſter, and the Com<g ref="char:EOLhyphen"/>mon-wealth, againſt I came to the Popedom. And as I had Ambition enough in me, to aim at a Mark ſo high, ſo was I not without the excellent Qualities of Pride, Vain-glory, and Hypocriſie, nay all, or rather more than all the Perfections, that are requiſite to make a compleat Pope. I brought my ſelf withal to that incomparable pitch of Pride, as to contemn my Lord and So<g ref="char:EOLhyphen"/>veraign: He was titularly King, while I began to make my ſelf actually ſo, thereby ſhewing my ſelf to have had ſome skill in the Art of Ingratitude; (he that will be a Pope, can never be eſteemed infallible, without that excel<g ref="char:EOLhyphen"/>lent Quality.) When at length my too inſolent Behaviour, made my Deſign have a very ill ſcent, inſomuch that moſt of the Courtiers begun to ſtop their Noſes, when I was near any of them; till at length that ſneering jeſting Rogue, <hi>Will. Summers,</hi> with ſome more of his Confederates, made not only a full Re<g ref="char:EOLhyphen"/>lation of my whole Plot to the King, but diſcovered likewiſe all the Treaſure I had been ſo many years hoarding. Whereupon I was immediately caſt out of his favour, and baniſhed the Court; when I broke my heart, and with me, all my high Deſigns, Plottings and Contrivances, died.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Oh ho! Thou art the rich <hi>Engliſh</hi> Cardinal, that through an holy, as well as ſelf-intereſſed zeal, had almoſt moulded thy Plot to its moſt perfect form, when an adverſe Fate broke thy pious Intentions. I love and honour thy Memory, for the great reach thou hadſt in all humane Affairs, and for the Care thou didſt take to propagate the Intereſt of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Card.</speaker>
+               <p>I am your Holineſs's moſt humble Servant, and in this bodileſs Being am come from the ſhady Territories, to pay you my moſt dutiful Reſpects, having withal underſtood, from ſome Infernal Miniſters imployed in my Ser<g ref="char:EOLhyphen"/>vice, how affectionate your Intentions are at this Juncture of time, to our <hi>Stygian</hi> Prince, manifeſted in your Endeavour on Earth, to advance yours and your Creatures Intereſts, by extirpating Root and Branch, (with the Trap of Diſſimulation, and the edge of a well-prepared Sword) the abominable Hereticks of <hi>Great Britain.</hi> The Care of his Infernal Majeſty in this Affair, I doubt not but you have ſufficiently experienced, ſince he hath condeſcend<g ref="char:EOLhyphen"/>ed to ſet all the Engines in his diabolical Dominions at work, to encourage ſo worthy a Deſign.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>My Thanks are too poor an acknowledgment, of this kind and un<g ref="char:EOLhyphen"/>expected Viſit from you, more eſpecially now my Head is filled with the Fumes of ſo dark a Melancholy, expecting the Return of your Black Monarch, who
+<pb n="2" facs="tcp:101387:4"/>
+was pleaſed to ſtoop to ſo low a ſtep of Humility, (a Quality, I dare be bold to ſay, not agreeing with his Nature) as to Poſt my Envoy into <hi>England,</hi> where I ſent him (knowing him to be a fleet Meſſenger) to ſee if the Plot was near accompliſhed. He had been there five or ſix times before, but did not make a ſtay ſo long as he hath now done; but at thoſe times, with the beſt Documents of Vertue he had, he did, by my Inſtigation, and my Cabal of Jeſuits, held there and at St. <hi>Omers,</hi> corrupt not only a great many of the Vulgar, whom he polliſhed with the glitterings of Senſe-pleaſing Idolatry, but likewiſe others of eminent Quality, whom he hath cunningly drawn into the Plot, and ſince hath in his Princely Courteſie liſted ſome of them in his Roll of Damnation. But his too long abſence hath rendred me not only im<g ref="char:EOLhyphen"/>patient, but hath wrought in me ſo ſtrong a Purge, that <hi>Barbadoes</hi> Nuts are ſtoppers to it. I have ſate this 24 hours upon an indulgent Cloſe-ſtool, and have likewiſe had ſome Sweats with over-ſtraining, and one day ſome of my Guts did moſt inhumanely peep through my Poſteriors: Grant, kind <hi>Luci<g ref="char:EOLhyphen"/>fer,</hi> this be not as ominous, as it is painful to me.</p>
+            </sp>
+            <sp>
+               <speaker>Card.</speaker>
+               <p>I beſeech your Holineſs to be of good Cheer; there can be nothing ominous to you. Don't you know that your States-men, the Jeſuits, will pretend to control Fate it ſelf, and ſtrive againſt Omnipotency? If you know this, you will be comforted; if you don't, you muſt not be angry at the ex<g ref="char:EOLhyphen"/>preſſion, if I tell you, you are a very ignorant Pope. But I love you more than I can utter, for the Care you take to keep up, and improve the Intereſt of the Church. What if you do ſupport it by Treaſons and Murthers; is it not the Church your Care is upon? What muſt not be done for the ſake of a Church, eſpecially a Church built upon ſuch ſplendid Principles as yours is? I could almoſt embrace you; but as you have a Senſe deep enough to know, that what ſeems in me to be Subſtance, is a Compoſition of Air, you will, I hope, pardon me. But now I have been talking to you of Air and a Church, what do you think the Hereticks that live in <hi>England</hi> ſay of us Papiſts?</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Pray let me hear it.</p>
+            </sp>
+            <sp>
+               <speaker>Card.</speaker>
+               <p>That the Religion or Church whereof you are the Head, is a Being without Subſtance, like my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Impudence, Impudence, Impudence! A Scandal, as I live; a meer Scandal to the Holy Church; but they will ever be prating. A zealous Ca<g ref="char:EOLhyphen"/>tholick cannot now in his Ordure, evacuate ſo much as an Enigmatical Maſs-Book, or a Fraudulent Image, but it's preſently diſcovered, though he don't ſo much as whiſper it in the Ear of a ſilver Crucifix, a Jeſuit Dormant, or a Nun Couchant, when a devout Frier is liſtning to her Confeſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Card.</speaker>
+               <p>So it was when I lived in the World; they did ever abuſe us, and miſconſtrue our ſacred Intentions. But how does your Holineſs now feel your ſelf? Have you yet no ſtoppage of this violent Looſneſs?</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>No, nor ſhall not, till my induſtrious <hi>Daemon</hi> returns with chear<g ref="char:EOLhyphen"/>ful News from <hi>England:</hi> Oh! if I could but turn that Heretical Kingdom topſy-turvy, the very pleaſure that would fill my heart, which would with<g ref="char:EOLhyphen"/>out a further miracle inſtantly work a Cure in me. But I fear this rigid Di<g ref="char:EOLhyphen"/>ſtemper preſageth a contrary Effect; if ſo, all future Plots againſt that Nati<g ref="char:EOLhyphen"/>on muſt die, and it will almoſt begin to make me believe, that ſome unknown Power protects it, expreſly to diſturb my repoſe, and the little diabolical Inſtruments I have ſet to work. I have raiſed Commotions in that ſpot of Ground, fill'd the Brains of the People full of Fears and Jealouſies, and have even been ready to ſet all together by the Ears. The Plot, my Jeſuits, to<g ref="char:EOLhyphen"/>gether with my infernal Emiſſaries, are now at work about. When I per<g ref="char:EOLhyphen"/>ceived that every ones Noſe begun to diſcover a rank ſcent of it, I cauſed them to broach Rumours abroad, that there was no ſuch thing, and in fine
+<pb n="3" facs="tcp:101387:4"/>
+perſwaded many People to give no credit to their Eye-ſight: And truly whether it was out of complacence, or whether their Eyes were dim, indeed the moſt part were ſo credulous to believe this politick Report for a truth, notwithſtanding our Endeavours in the interim to ſet <hi>London</hi> once more in a Flame, as well as the whole Nation—</p>
+            </sp>
+            <sp>
+               <speaker>Card.</speaker>
+               <p>Thou art an exquiſite Pope: This was an incomparable beginning; but how far did you proceed?</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>And when any Houſe was fired, to clear us from Suſpicion, we whiſpered it abroad for an Accident, colouring it with plauſible Stories; and thus it was for the moſt part ſtifled. At length my Worthy Friend, Prince <hi>Lucifer,</hi> whisking through the Air, comes in at my Window in great haſte, and told me, They had made a hopeful beginning already, for one of their Juſtices of the Peace, a too forward Man in ſearching into the depth of our Myſteries, we have honourably, and with our uſual decency, diſpatch<g ref="char:EOLhyphen"/>ed. I was glad to hear this, and thereupon ſent him inſtantly away again, (not giving him time to comfort himſelf with a Glaſs of Sack and a Cruſt) to know what further Effect this had wrought: And for his Anſwer, I have now waited longer than uſual, and during his abſence, have got this fierce Looſneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Card.</speaker>
+               <p>I pity your Holineſs, and fear indeed this Diſtemper may prove omi<g ref="char:EOLhyphen"/>nous to your pious Undertakings: However you know, when I lived in the World, in the Quality of a Cardinal, I was eſteemed a Perſon as learned as politick: My Studies were deep in all Arts and Sciences; among others, I acquired no mean knowledge in Phyſick. Now ſince I have been freed from the groſs Covering of a Body, the Vertues of Herbs, Plants, Minerals, all ſorts of Creatures, as well Men, as Birds and Beaſts, the four Elements, the Stars and Planets, are diſcovered to me in a more pure manner, than when I lived in the Fleſh, and I can as aptly apply and uſe them; this is the Nature of Etherial Beings. Now if your Holineſs thinks fit to make uſe of what I ſhall preſcribe to you, I will give you a Receipt, whereby your Looſneſs may be ſtopp'd.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I am infinitely obliged to your Lordſhip, and in returning you my thanks, will give an attentive Ear to this ſoveraign Remedy.</p>
+            </sp>
+            <sp>
+               <speaker>Card.</speaker>
+               <p>You muſt take two handfuls of the Powder of Humility, put it into the clear Water of Truth, diſtilled from the Alembick of Purity, there let it diſſolve, till ſome groſs Lumps of Superſtition and Tyranny diſappear; then melt down your Triple Crown, and cauſe it to be curiouſly wrought or for<g ref="char:EOLhyphen"/>med into a myſterious Chaſing-diſh, on which you muſt put this Cordial, in order to be kept continually warm; under it kindle the Coals of Honeſty, and with the Bellows of Sincerity, blow away the Aſhes (that obſtruct its clearneſs) of Jeſuitical Policy: Drink of it morning and evening, as warm as you can devoutly bear it; and ſometimes to quench your thirſt, drink of the Cup of Temporality; but beware of Spirituality, too much of that will bring you to a Relapſe.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>My Lord, I thank you; but theſe Remedies cannot agree with my Conſtitution, and therefore dare not venture on them, ſince a ſqueamiſh Stomach, as I have too, would make me vomit it all up again.</p>
+            </sp>
+            <sp>
+               <speaker>Card.</speaker>
+               <p>I am ſorry they agree not with your Temper. But none can be more like me when I lived in the World, than you are: When I began to fall into Diſgrace, I had juſt ſuch a Looſneſs as you have now upon you; though had I but taken the like Remedies I have preſcribed to you, I had been freed from the Calamities I endured, as well out of the World, as in it. Adieu.</p>
+               <stage>As a Cloud of Miſts and Vapours, hanging in the middle Region of Air, does by degrees diſſolve and diſappear from the Eye of the Beholder, even ſo did this
+<pb n="4" facs="tcp:101387:5"/>
+bodileſs Cardinal, from the view of the Pope, whom he left rather more diſconſo<g ref="char:EOLhyphen"/>late than he had found: But the entrance of a Jeſuit, his particular Friend, (of the ſame Society with thoſe that lived in the City of <hi>Rome)</hi> did ſomething miti<g ref="char:EOLhyphen"/>gate the troubles of his mind, who held the enſuing Diſcourſe with him.</stage>
+            </sp>
+            <sp>
+               <speaker>Jeſuit.</speaker>
+               <p>I come to thank your Holineſs, in the Name of the reſt of the So<g ref="char:EOLhyphen"/>ciety, for the Bull you granted us againſt <hi>Great Britain:</hi> It was well meant, and in time I hope we ſhall draw that People from their Allegiance to their Prince, and make them pay Homage, according as their Duty binds them, to none but you.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I granted it to you freely; though at that inſtant a Prophetick Fan<g ref="char:EOLhyphen"/>cy did almoſt ſeem to tell me, that ſomething beyond the reach of Senſe or Nature, wou'd obſtruct our noble Deſign. I have ſummon'd all the infernal Crew to our aſſiſtance; not a Devil, either on the ſurface, or in the entrails of the Earth, but by my toilſom Endeavours, and your Necromantick Poli<g ref="char:EOLhyphen"/>cy, doth put a helping hand to forward ſo great a Work.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>And there is nothing we leave untryed, to perform our Duty to the holy See. We have ſet our Inſtruments at work, to deprive <hi>England</hi> of its Crown and Dignity, that thereby they may own you for their ſupream Head, as well in temporal as ſpiritual Affairs—</p>
+               <stage>That word was ſcarce out of his mouth, when they heard a Voice as from under the ground, crying as loud as it could bawl, If you are for ſuch Handiwork, take me into your Council. The Jeſuit being well skilled in Conjurations, obliged the Thing that ſpoke, to appear before them; it was a rough-hewn, ill-faced Fellow, in a Prieſt's Garb.</stage>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>From what Countrey art thou?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>I am a <hi>French</hi> Ghoſt, <hi>a vostre Service.</hi> I was called <hi>Ravilliack</hi> when I lived with Mortals, and my Name muſt needs inform you, that it was I murdred my King and Maſter <hi>Henry</hi> the 4th. It was your Reverend Society ſet me to work; and hearing you have now ſome ſuch Buſineſs in hand to be executed in <hi>England,</hi> I took a flight from Hell, to know the certainty of it; and whether or no it is ſo exquiſitely Diabolical, as our Monarch King <hi>Luci<g ref="char:EOLhyphen"/>fer</hi> told us, when he ſpoke to us in commendation of the Deed, applauding the Contrivance, both for the advancement of your Honour and Intereſt, and for the propagation of his infernal Dominions. However I thought time had made you weary of theſe Actions, but I ſee the World muſt firſt be weary of you.</p>
+               <p>I ſtabb'd my King bravely; was it not a noble Act? And had not your Fraternity cheated me of my Soul, I ſhould have had a good conceit of it ſtill. I thought to have gone as directly to Heaven, as I did to be executed; I was obſtinate, and relyed wholly upon the Abſolution I had from the Pope, for that famous Deed, which I thought was enough, and more than enough, to keep me from the broad Road; nay, I denied upon my death, that any one counſelled me to perform that Act, but owned it as done by my own In<g ref="char:EOLhyphen"/>clination, and did manfully ſay, (like a true <hi>Roman Catholick</hi>) that if it were to do again, I would do it. Thus I died, and thus I have received my Reward.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Thou art a very fooliſh Ghoſt; why ſhou'd you care where you go, when you are dead, provided you are true to the Church upon Earth? Can you think, Fool that you are, that you can endure too much (be it where it will, in the World or out of it) for the ſake of the Church? Fie, fie! I wonder a Ghoſt of your Parts will talk ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Rav.</speaker>
+               <p>'Tis true, I went Nobly to be damn'd, led by the Rule of your de<g ref="char:EOLhyphen"/>vout Maxims, and I eſteemed the Murther I committed, a meritorious Act, and I think it hath proved ſo. For as your Society doth moſt piouſly inſtruct
+<pb n="5" facs="tcp:101387:5"/>
+all your Pupils, that Proteſtant Princes ſhould be cut off, and that he or they that ſhall accompliſh their Death, do merit Heaven thereby; I eſteeming my Maſter King <hi>Henry</hi> inclined that way, and that he did deſign to ſend his For<g ref="char:EOLhyphen"/>ces againſt his Holineſs; egged on by the Fire of Devotion, and receiving Encouragement from you, I at length moſt happily accompliſhed this heroick Act, which hath rendred my Memory as ſuperlatively famous, as it is poſſible for the deepeſt Infamy to render to after-Ages. My Name was moſt inglo<g ref="char:EOLhyphen"/>riouſly extirpated the Realm of <hi>France,</hi> and thoſe I judged that wou'd have been my Friends, and have extolled the Deed, did moſt worthily, to my ever<g ref="char:EOLhyphen"/>laſting ſhame, fill the whole World with bitter Invectives and Exclamations, againſt a thing I thought ſo juſt.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Thou haſt been an honeſt well-meaning Fellow in thy life-time to the Church, and did boldly undertake to be damned, like a valiant Souldier of his Holineſs, and therefore I will deal plainly with ſo worthy a Ghoſt, and reveal to thee ſome Secrets, which were not perhaps invented, when thou wert among Mortals; and I believe, thou art as honeſt a Ghoſt as thou wert a Man, and wou'd, if thou could live upon Earth again, be ſtill devoted to ſerve us.</p>
+            </sp>
+            <sp>
+               <speaker>Ra.</speaker>
+               <p>I fear I ſhould not, more eſpecially if I ſhould be in the leaſt ſenſible, that the Torments I now ſuffer, ſhould be my Reward again.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Art thou ſtill for this impertinent Talk? I thank <hi>Lucifer,</hi> we don't want thee; for we have thoſe in the World that are as bold, nay rather bolder, than ever thou wert, that will drudge, and take as much and more pains to be damn'd, than ever thou didſt— But to come to the purpoſe: We deſign firſt, ſince the King of <hi>Great Britain</hi> will be no <hi>Roman Catholick,</hi> to remove him out of the way, as an Obſtacle to our Deſign—</p>
+            </sp>
+            <sp>
+               <speaker>Ra.</speaker>
+               <p>How out of the way? As I did my Maſter?</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Even ſo. Then having furniſhed with Arms and Ammunition, all the <hi>Engliſh Romaniſts,</hi> (and that is not a few) beſides many Foreigners, that be at our beck, the time being appointed, and the ſign given, they ſhall riſe helter-skelter, cut Throats merrily, and make three Meals in a day of thoſe Hereticks; which as it will be to the great Comfort of us Catholicks in general, ſo your Holineſs will more particularly reliſh the Sweets of ſuch Tranſactions, in a more ſavoury manner, eſpecially when you begin once more to receive <hi>Peter pence,</hi> ſell Abſolutions, and redeem Souls from Purga<g ref="char:EOLhyphen"/>tory in that Iſland, with innumerable many more Benefits, which will from thence accrue to the holy See, whereby you will treble your Revenues.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>There's life in this Diſcourſe: Methinks the power of it hath almoſt ſtopp'd my Looſneſs; Oh how I wou'd hug thee, if this day were come to paſs!</p>
+            </sp>
+            <sp>
+               <speaker>Ra.</speaker>
+               <p>I doubt you won't be altogether ſo ſucceſsful as I have been.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Now thou ſheweſt thy ſelf a very ill-natured Ghoſt to me, in uſing theſe diſcouraging Expreſſions. Conduct me to my Cloſe-ſtool again; Heart<g ref="char:EOLhyphen"/>ſick! Theſe laxative words have increaſed my Diſeaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Ra.</speaker>
+               <p>I had neither took upon me the trouble to come into the World, nor had the leaſt ſuſpicion of any thing, but that I heard Whiſperings among the moſt notable of the damned Crew, as if the Mortals had invented new ways, to repleniſh the infernal Manſions with more Company; which if there be any Conſolation to be had in thoſe tormenting Dwellings, the hopes of this News did ſeem to give it them: Old <hi>Noll</hi> belched out nothing but Treaſons and Murthers; and ſome of your Holineſs's Predeceſſors, that I have the Ho<g ref="char:EOLhyphen"/>nour to know there, cried out as loud as they could bawl, (as fill'd with Joy) Sedition, a Conſpiracy, Cut, Hack, Deſtroy, Maſſacre. I ſeeing ſuch an un<g ref="char:EOLhyphen"/>uſual Joy among the Damned, ſmelt a Rat, and prepared my ſelf for a Jour<g ref="char:EOLhyphen"/>ney
+<pb n="6" facs="tcp:101387:6"/>
+into the World: And having experienced when I lived there, that the moſt notorious Rebellions, the moſt blood-thirſty Treaſons, the moſt ſavage Murthers, and impious Seditions, had commonly their Birth and firſt Con<g ref="char:EOLhyphen"/>trivance, in all Ages, under your ſacred Noſe, I hapned to arrive in the nick of time into your preſence, when this learned Jeſuit and you were diſcourſ<g ref="char:EOLhyphen"/>ing on ſuch Affairs. But methinks if you conſider the ill ſucceſs your De<g ref="char:EOLhyphen"/>ſigns have ever had againſt that Nation, it ſhould diſhearten you: But you do perhaps imagine, according to your Reaſon, that the ill-managing the former Plots, obſtructed their deſired Effects, without giving your ſelf the leaſt trouble to think, an over-ruling Power can withſtand that controlling Force, your politick Contrivances carry along with them.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>You don't talk as if you had ſo much Cunning as a Mortal, much leſs as a Ghoſt. The Revolution and Changes of Kingdoms, are ſometimes wrought by our ſubtil Magick; our Policy ſhall out-reach <hi>Lucifer</hi>'s; we have more ways to attain our damnable Ends, than ever <hi>Proteus</hi> had to turn himſelf into ſuch various Shapes; and to ſympathize with him, we can turn our ſelves into more Shapes than ever he dream'd on. In Proteſtant Nations we can be one day a devout Divine, and the next a Porter; ſometimes we turn our ſelves into Perſons of extraordinary Quality, and huff it with our Coach and ſix, when immediately after the Scene perhaps is changed, and we turn wilful Beg<g ref="char:EOLhyphen"/>gars; ſometimes we are illiterate Coxcombs, as Countrey-Clowns, Dunces, and ſeemingly Naturals; then we render our ſelves Objects of Folly to the whole World, when in a ſmall time afterwards, we are found arguing ſome deep Points in Philoſophy, or ſome other piece of Learning, with Perſons as knowing as our ſelves; and then again, according to the Conveniency we find to proſecute our Purpoſe, none ſhall rail more againſt Popery than we; none to appearance ſuch true <hi>Engliſh</hi> Churchmen, <hi>Quakers, Anabaptists, Presbyte<g ref="char:EOLhyphen"/>rians, Muggletonians,</hi> and what not: No Sect whatſoever but we make uſe of, as Inſtruments to further our Contrivances; ſometimes we are looked up<g ref="char:EOLhyphen"/>on as ſuch devout men by the multitude, that we are raiſed to a Pulpit, to teach and inſtruct them; then we make it our buſineſs to rail againſt Govern<g ref="char:EOLhyphen"/>ment, and with a ſubtil kind of tempting Rhetorick to praiſe Novelty; this gains us immediately the hearts of the <hi>Hydra,</hi> or Vulgar: Thus the ſeeds of Sedition being pretty well ſown, we begin to be aſſured of having laid a per<g ref="char:EOLhyphen"/>fect Platform, towards the accompliſhment of our Deſires. But now we have made uſe of theſe Tricks ſo often, that the <hi>Britiſh</hi> Hereticks are grown ſo wa<g ref="char:EOLhyphen"/>ry to keep us at a diſtance, to our great trouble, though the ſtudy of our Po<g ref="char:EOLhyphen"/>liticks affords us new ways to be even with them.</p>
+            </sp>
+            <sp>
+               <speaker>Ra.</speaker>
+               <p>This is incomparable! We Ghoſts have Cunning enough in us, but that that maſs of Fleſh, that groſs Subſtance, called Man, ſhould ſound to that depth of diabolical Policy, it's enough to make not only me, but all the <hi>Demons</hi> and <hi>Cacodemons</hi> in Hell, bleſs themſelves, which they don't uſe to do.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Becauſe I won't lye, nor equivocate with a Ghoſt, as I do with Mortals, I will acquaint you what I my ſelf did at <hi>Rouen</hi> in <hi>France,</hi> with a Brother-Confederate of mine: You know there are a great quantity of Proteſtants in that Kingdom, whom we ſtyle <hi>Hugonots;</hi> I had order'd my Confederate to per<g ref="char:EOLhyphen"/>ſonate a zealous one; and I was to meet him at ſuch a Place in the Street, (it was in a Street we knew to be well ſtored with <hi>Hugonots.</hi>) After we had ſeemed for ſome time to diſcourſe of very indifferent Matters, (according to the Deſign we had laid) there began between us as loud, as eager a Diſpute, he arguing for the Proteſtants, and I for the Papiſts; our Diſcourſe was ſo hot and high, that in an inſtant we had a great croud of both Sects incompaſ<g ref="char:EOLhyphen"/>ſing us, to hear us. After we had gathered a good Congregation, my Confe<g ref="char:EOLhyphen"/>derate did by degrees ſeem to yield to the force of my Arguments, and at
+<pb n="7" facs="tcp:101387:6"/>
+length after a great many <hi>pro</hi>'s and <hi>con</hi>'s, wholly to be convinced, and conſe<g ref="char:EOLhyphen"/>quently converted to the Church of <hi>Rome,</hi> and made me a faithful promiſe, (loud enough that the People might hear) to go to Maſs the next opportuni<g ref="char:EOLhyphen"/>ty. The Effect anſwered our Expectation, for the Catholick Party immedi<g ref="char:EOLhyphen"/>ately ſet up a great ſhout, and the moſt ignorant of the Proteſtants followed the Steps of my Confederate, and went to Maſs too.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>You ſee, worthy <hi>Ravilliack,</hi> the Religious means we are forced ſome<g ref="char:EOLhyphen"/>times to uſe, to bring that obſtinate People to pay their Duty to the triple Crown.</p>
+            </sp>
+            <sp>
+               <speaker>Ra.</speaker>
+               <p>Such like politick Traps we uſed in the Age I lived in the World, which ſometimes miſcarried, and when we could not catch them, as we wou'd have them; then we were conſtrained to uſe Force, and diſpatch them out of the World, with all the modeſt Expedition we could. But now methinks I am wanted in <hi>Acheron,</hi> whoſe Inhabitants, I fear, already grumble at my long ſtay in the World. In being forced to return then, I remain your Holineſs's very humble Servant: Commend me to all thoſe of your Acquaintance, that take care to follow my Track, by ſeeking to waſh their hands in the Blood of Princes.</p>
+               <stage>This Ghost had ſome Manners in him, for he vaniſhed with a Complement in his mouth, and left the Pope and the Jeſuit by themſelves, who were many days conſulting the great Affair, of turning <hi>England</hi> upon her Head, and to ſtrip her of all her graceful Ornaments, that her Nakedneſs might render her contemptible, and her Contempt make her appear in the view of all <hi>Europe,</hi> to be the greateſt Slave that ever <hi>Rome</hi> trampled under foot; but the time is not come. One day when they were in very private Diſcourſe, word was brought his Holineſs, that there was a Gentleman in his Palace, who waited with much earneſtneſs to ſpeak with him; that he had ſomething of Importance to communicate to his Holineſs, and that his Garb ſpoke him a Traveller. Entrance was immediately commanded to be given him; when being come, he thus began.</stage>
+            </sp>
+            <sp>
+               <speaker>Trav.</speaker>
+               <p>The Affection I bear your Holineſs, hath occaſioned my travelling ſome hundreds of miles out of my way, not only to pay my Duty at your ſa<g ref="char:EOLhyphen"/>cred Feet, but likewiſe to give you intelligence of ſome Paſſages in the World, relating to the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Thou haſt done like a dutiful Son, and my Benediction ſhall protect thee, <hi>vi &amp; armis,</hi> where-ever thou goeſt.</p>
+            </sp>
+            <sp>
+               <speaker>Trav.</speaker>
+               <p>I have made it my Buſineſs to travel all my Life; hardly a Mouſe<g ref="char:EOLhyphen"/>hole, or Corner of the known World, but I have been, or peep'd in: I have been Eaſtward 10000 Leagues beyond the Walls that ſeparate <hi>China</hi> from <hi>Tartaria;</hi> I have waſhed my Face and Hands in the Clouds 7 years together without omiſſion; then it was I was going to take a Journey through the mid<g ref="char:EOLhyphen"/>dle Region of Air, to viſit the Inhabitants of the Sun, Moon and Stars, when my Tackling (which were ſome Egg-ſhells, filled with <hi>May</hi>-Dew, and a light Wicker Chair) was not rightly fixed, which diſappointed my intent. I have ſailed from <hi>Grand Caire,</hi> upon the Borders of <hi>Nyle,</hi> to <hi>Lapland,</hi> in a Cock<g ref="char:EOLhyphen"/>boat, where I had a great deal of good Advice given me to turn Wizzard, though the commanding Power of my Amber-Beads and Crucifix, made their Attempt fruitleſs. But that which moved in me the greateſt Surprizal, was at a time when I was at Dinner with <hi>Preſter John,</hi> comes me to the Table ſome<g ref="char:EOLhyphen"/>thing, I profeſs, that half frighted me— I dare hardly preſume to tell your Holineſs, becauſe being an abuſe to you, it may offend you; it was done, as I underſtood afterwards, by the Power of Magick.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Tell it me, Son, and fear not.</p>
+            </sp>
+            <sp>
+               <speaker>Trav.</speaker>
+               <p>Your Commands muſt be obeyed. Then wonder not if I tell you, That that Head you have now upon your Shoulders, (or it ſeemed to be the
+<pb n="8" facs="tcp:101387:7"/>
+ſame) was brought in, (upon a large ſilver Diſh) well dreſſed, and ſeaſoned with Hereticks Blood, and well larded with the fatteſt Bulls and Diſpenſati<g ref="char:EOLhyphen"/>ons, that your Holineſs hath diſperſed ſince you came to the Popedom. After this came in the Head of Pope <hi>Paſcal</hi> the firſt; and as a token that he was the firſt that conſtituted Cardinals, it was ſurrounded with variety of Cardinals Heads, ſeaſoned with the Brains of divers Jeſuits, and garniſhed with red Caps.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Monſtrous! <hi>Prester John</hi> ſhall repent putting theſe Abuſes upon me.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Abominable! I'll inſtantly hire a <hi>Ravilliack</hi> to kill him.</p>
+            </sp>
+            <sp>
+               <speaker>Trav.</speaker>
+               <p>This is not all yet. He took upon him the boldneſs to ask me to eat ſome of theſe Dainties (as he called them) with him; but I abhorring the ve<g ref="char:EOLhyphen"/>ry thoughts of ſo foul a Deed, wou'd touch none: Whereupon, like a wicked Heathen as he is, he asked me, Why I was more merciful to my holy Father, than to my God, whom I could ſwallow without the leaſt ſcruple of Conſci<g ref="char:EOLhyphen"/>ence? Theſe Sights and Stories frighted me from his Court, when I took my leave of him, and went directly for <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>
+                  <hi>Prester John</hi> is a very ill-bred wicked Man: From this time forward, the Countrey he is Maſter of, is none of his own, I beſtow it on one of my Nephews.</p>
+            </sp>
+            <sp>
+               <speaker>Trav.</speaker>
+               <p>When I came for <hi>France,</hi> there it was I heard a great talk of a Plot, intended to ſubvert the Government, and cry down the Religion of <hi>Great Britain,</hi> and that it was contrived, and to be carried on by your Holineſs, the Jeſuits, and the moſt zealous of the Laity; although by the joking of the <hi>Frenchmen,</hi> and their ſneering at ſuch a Report, made it appear, that it was not believed for a truth in that Kingdom. Now I had ſo good an opinion of your Holineſs, that I knew you wou'd pretermit no opportunity, wherein you might propagate and advance your Intereſt, and <hi>per conſequens,</hi> that of the Church, let it be where, or how it will: Why ſhould you not pull now at that heretical Kingdom, as well as your Predeceſſors have tugged at it formerly?</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Son, You ſpeak the truth, and the good opinion you have of me, (though it be your duty to have no other) I have endeavoured to deſerve.</p>
+            </sp>
+            <sp>
+               <speaker>Trav.</speaker>
+               <p>I doubt it not. But to come to my purpoſe: Being at <hi>Paris,</hi> and hearing there the ſeveral Cenſures of this Plot, the noiſe of it had almoſt tired my Senſes, when I took a reſolution to divert my ſelf, by ſeeing a new Play which was to be acted: Whence it comes in my Head to tell you a pleaſant Paſſage I obſerved in it. Enters a Traveller, (as I may be) and his Friend, who after he had given him an Account of a great many more and ſtranger Places, than I have been at, told him, that now he came from <hi>England,</hi> where travel<g ref="char:EOLhyphen"/>ling on the Banks of the <hi>Thames,</hi> he ſpied at a ſmall diſtance from him, a glo<g ref="char:EOLhyphen"/>rious Fleet of Ships, riding at Anchor, among which there was one of a larger bulk, and of a more beautiful aſpect, than the reſt. This Traveller had a ſhort Cloak on, with a pair of Boots, that reached up to his Arm-pits; this ſtately Ship, ſays he, carried 100 braſs Guns: Standing on the Shore, proceeded he, to view it more fully, it appeared to my Eye, as if it had ſprung a Leak, and was ſinking; I taking pity of it, (for it wou'd have grieved me to have ſeen ſuch a delightful Object periſh) flung my Cloak over it, and carried it away under my Arm. His Friend wanting that Faith, which a great many of us Catholicks are ſtrongly poſſeſſed with, did ſeem to doubt of the truth of what was told him, and begun to queſtion the probability of it. Since you are ſo hard of belief, ſaid he, take a Voyage into <hi>England,</hi> where you ſhall find two ſubſtantial Witneſſes, ready to vouch and ſwear to the truth of it.</p>
+               <p>When the Play was done, I went to my Lodging, and there begun to pon<g ref="char:EOLhyphen"/>der upon this Subject; I fancied to my ſelf, that there was ſome extraordinary myſtery in it, and therefore could find no quiet nor peace in my mind, till I had given that Iſland a Viſit: When coming to <hi>London,</hi> I found the Rumour
+<pb n="9" facs="tcp:101387:7"/>
+of a Plot, ſo much laughed at in <hi>France,</hi> a comfortable Truth, to the everlaſting Credit and Honour of the holy See. I likewiſe found the two ſubſtantial Witneſ<g ref="char:EOLhyphen"/>ſes, vouching to things far more probable, than the Ship with 100 braſs Guns; for by more than meer Circumſtances, they have vouched ſome of our dear Friends to a Gallows, and there are more, I fear, that muſt in their due order fol<g ref="char:EOLhyphen"/>low; which thing, though it may multiply the Catalogue of <hi>Roman</hi> Saints and Martyrs, yet to ſee the detriment this Diſcovery hath done our holy Church, made me burſt out in tears.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Oh my induſtrious Devil, without thee I am undone! Where art thou? I fear thou haſt made but ſmall progreſs now in the Errand I ſent thee for: Oh my Stomach!— my Guts! how I am griped? Let me but out-live this Diſgrace, and the next Plot ſhall make amends.</p>
+            </sp>
+            <sp>
+               <speaker>Trav.</speaker>
+               <p>I thought to have ſtayed there longer, but a general Search being made for Prieſts and Jeſuits, made me ſick to come away; and my zeal to your Holineſs led me hither, to acquaint you with this News: And now I have performed my Duty, I ſhall depart contentedly for <hi>India,</hi> where I am now going. Holy Father, farewel, and if Heaven won't ſmile upon your Endeavours, may Hell's Flatteries pleaſe you, its Power aſſiſt you, and its Injuſtice protect you, under its ſable wings.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Adieu, and peace be with you, but (I mean now you are gone) that the worſt of my Curſes may light upon you, for coming to fill my Ears with this Din. What a prodigious Looſneſs have I got now? This muſt ſurely kill me, which if I am ſenſible of, after I have given my ſelf an Abſolution for the ſins I have been guilty of, (if Popes can commit any) and when I have begged my own pardon for my paſt failings, eſpecially that great one, (I mean the miſcarriage of this Plot) I ſhall die with ſome content.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Be comforted, holy Father, and expect the Return of your familiar Maſter and Servant <hi>Lucifer,</hi> who will doubtleſs give a more full Account than this im<g ref="char:EOLhyphen"/>pertinent Traveller. Travellers are made up of lyes; you may put more faith in one Devil, than in twenty mortal Travellers.</p>
+               <stage>At this inſtant the Clouds began to thicken, the Air to whiſper, and a noiſe was heard, as proceeding from the bowels of the Earth, when ſuddenly one part of the Hea<g ref="char:EOLhyphen"/>vens ſeemed at variance with another, by the terrible bluſtring of all the Winds, and the thick and dark hollow Clouds, did with their hanging bellies, cover the tops of Towers and Steeples, which filled with Thunder, raiſed a general Consternation in all <hi>Roman Catholick</hi> Kingdoms, more eſpecially in the City of <hi>Rome,</hi> when the infernal Mo<g ref="char:EOLhyphen"/>narch, at the muſick of a horrid clap of Thunder, made his Entry through the Cieling, into the Pope's preſence.</stage>
+            </sp>
+            <sp>
+               <speaker>Luci.</speaker>
+               <p>Freighted with more Confuſion, than my infernal Dominions are ſto<g ref="char:EOLhyphen"/>red with; ſtruck with more Terrour, than thoſe brimſtony Manſions afford the Damned, I am comfortleſly come to tell thee, That the All-commanding Hand hath with-held my Power, the All-diſcerning Eye of Heaven hath pryed into our ſecret Councels, and that Hell muſt be enlarged, to contain thoſe Mortals, that are haſtning to my Kingdom. Although my diligent Endeavours can deſerve no blame: I have, according to my Nature, compaſſed the World, ſeeking whom I may devour; nay further, according to my uſual Tenent, which you Jeſuits have politickly borrowed from me, I have appeared like an Angel of Light, to ſeduce Man: I have filled not only <hi>England,</hi> but all the World, with the moſt notorious Hereſies, (to make way for Sedition, and conſequently Murthers and Treaſons) that it is poſſible for the large reach of a Devil to invent or fathom. And though this Plot hath been diſcovered, yet the devout Catholicks, that ſuffered for the ſame, I have cauſed, according to the uſual Jeſuitical Mode, to deny, with an excel<g ref="char:EOLhyphen"/>lent Impudence, the Charge they were found guilty of. At their very Deaths, I have gone ſo far, as to procure a Writing to be put in one of the Pockets of thoſe that were hanged, who indeed could neither write nor read, (and therein my
+<pb n="10" facs="tcp:101387:8"/>
+Cunning failed me) in which he declared his Innocency, hypocritically prayed for the King, and manfully reviled the Judges that condemned him. That which induced them to do this, was cunningly extracted from the vertue of your Abſo<g ref="char:EOLhyphen"/>lutions, and their thoughts filled with the hopes of being freed from the pains of Purgatory. All this I have done, and cauſed to be done, by Jeſuitical Inſtruments, to make thoſe Hereticks miſ-underſtand us, and have a more charitable belief of us, than to think that ever any Plot was intended.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>And could you do no good? Were they ſuch Infidels, not to believe what you had ſpread among them?</p>
+            </sp>
+            <sp>
+               <speaker>Luci.</speaker>
+               <p>No, on the contrary, they are rather more eager to proceed, and to ſearch into the very bottom of it; and the general Councel of that Nation, who in ſpite of my teeth, will pretend to honour and obey their King, will, as I heard ſay, ſtick by him, and venture their Lives and Fortunes for him, and the publick Good. Oh that I had ſome moiſture in my Eyes, that I could but ſhed a Tear for ſo great a Diſappointment!</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Hold— Hold me up; I ſhall faint away; ſet me upon my Cloſe-ſtool; my Guts! my Guts! Oh this Looſeneſs!</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Patience. Let's hear him out; perhaps it is not altogether ſo bad: Come, my faithful <hi>Demon,</hi> proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Luci.</speaker>
+               <p>The telling the reſt is enough to break a Devil's heart, I am ready to cry at the thoughts of it; however ſince it muſt out, it ſhall. Juſt as I was coming away to compleat my damnable Miſery, I was crept into a hollow Cliff by the Sea-ſide, ready to ſail through my uſual Road, the Air, for <hi>Rome,</hi> when at the entrance of it, I found this Scrowl, [which he gave to the Pope] and immediately after, an unuſual Luſtre, brighter than the Sun in his Meridian Glory, filled me with both Terror and Amazement; amidſt the Rays, appeared a beautiful Being, in ſhape like Man, but had ſomething more pure and perfect in it; at firſt my diabolical Know<g ref="char:EOLhyphen"/>ledge could not conſtrue what it was, till the words it pronounced, (which were the ſame your Holineſs hath in the Scrowl) made me take it for <hi>England</hi>'s good Angel. Terrified I was to ſome purpoſe, eſpecially when he pronounced the Name of <hi>Jehovah</hi> with ſuch an Emphaſis, and would thereupon have run away, had not this bright Being with-held me, and given me Command to hear him out. There was no reſiſting, I muſt do it; and then he charged me to give the Scrowl to the Biſhop of <hi>Rome,</hi> which Commiſſion I had likewiſe no power to refuſe, and now your Holineſs may peruſe it.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Oh me! I have no— Stomach to read, here <stage>(ſaid he, giving it to the Jeſuit)</stage> do you read it.</p>
+            </sp>
+            <sp>
+               <speaker>Luci.</speaker>
+               <p>Let me firſt be gone.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Thou art at liberty, but with thee my hopes are now gone too.</p>
+               <stage>With that the Devil in an instant dived into the Ground, like a Duck in the Water, and the Jeſuit read the following lines to the Pope.</stage>
+               <floatingText xml:lang="eng" type="poem">
+                  <body>
+                     <head>By <hi>England</hi>'s Guardian-Angel.</head>
+                     <l>FRom the bright Orb of everlaſting day,</l>
+                     <l>Where deathleſs Glory bears triumphant ſway;</l>
+                     <l>From the Abyſs of ever-during Joy,</l>
+                     <l>Where nought, dull and terrene doth us annoy,</l>
+                     <l>Where Souls refin'd, piercing as light, appear,</l>
+                     <l>Cloath'd with the beams of Purity t'th' Sphear,</l>
+                     <l>Where Hallelujahs melt admiring Hearts,</l>
+                     <l>With more diviner Joys, not mix'd with Arts,</l>
+                     <l>But ſweet celeſtial Raptures, ſung in praiſe</l>
+                     <l>Of Great <hi>Jehovah,</hi> midst his heavenly Rays,</l>
+                     <l>I come: To thee my Charge, dear <hi>England,</hi> ſent</l>
+                     <l>From the Protector of the Innocent,</l>
+                     <l>With Power to prevent the threatning doom,</l>
+                     <l>Hatch'd in Hell's Bowels, and the Heart of <hi>Rome.</hi>
+                     </l>
+                     <l>Oh! doſt thou tremble? Fiend, haſte to be gone,</l>
+                     <l>To thy infernal Cave and Manſion,</l>
+                     <l>Or to th' Cabal of Jeſuits; thy Friends</l>
+                     <l>Have new Deſigns to make ſome ſweet amends,</l>
+                     <l>For the miſcarriage of the latter; go,</l>
+                     <l>And think that Heaven won't prevent that too.</l>
+                     <l>Let me embrace thee in my folded Arms,</l>
+                     <l>My deareſt Charge, to ſave thee from all Harms,</l>
+                     <l>That <hi>Hell</hi> and <hi>Rome</hi> can equally invent,</l>
+                     <l>To colour thee with Blood and Diſcontent.</l>
+                     <pb n="11" facs="tcp:101387:8"/>
+                     <l>Run on blind <hi>Romaniſts</hi> in Cruelty ſtill,</l>
+                     <l>And think that Providence can't prevent your will,</l>
+                     <l>And that you may your ſelves the more deceive,</l>
+                     <l>Your own invented Cruelty don't believe.</l>
+                     <l>Delude your Fancies, politickly plot,</l>
+                     <l>For your own Int'reſt, nought ſhou'd be forgot.</l>
+                     <l>Do this and more, if worſe can be than Evil,</l>
+                     <l>To glad your beſt devoted Friend, the Devil.</l>
+                     <l>While I protect my Charge: But Heaven</l>
+                     <l>Hath a more ſacred One to <hi>Raphael</hi> given,</l>
+                     <l>
+                        <hi>Britain</hi>'s Great Monarch, great, next being divine,</l>
+                     <l>The mortal Emblem (that below doth ſhine)</l>
+                     <l>Of the immortal Being, him hath he</l>
+                     <l>From th' heavenly Power, in his ſecurity.</l>
+                     <l>
+                        <hi>Rome</hi> ſhall look ſad, and tremble, to perceive,</l>
+                     <l>She could the Eye of Prov'dence not deceive.</l>
+                     <l>Live happy, Mighty Monarch, live to ſee,</l>
+                     <l>The downfal of ſo cruel an Enemy.</l>
+                     <l>Great was his aim at thy too precious Life;</l>
+                     <l>But the All-ſtretching Hand, before 'twas riſe</l>
+                     <l>For Action, guided my more willing Arm,</l>
+                     <l>To ſtop the Blow, t'obstruct ſo great a Harm.</l>
+                     <l>For thee a more delightful Fate's deſign'd;</l>
+                     <l>Heav'n to Majeſtick Souls is ever kind.</l>
+                     <l>Traitors ſhall die, while loyal Hearts do ſing,</l>
+                     <l>With Tears of Love, Great God, preſerve the King.</l>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>This don't reliſh with me; this racking Torment deſtroys me, that's moſt certain: Yet my Diſeaſe is not altogether ſo loathſom to my ſelf, as the ſcent of it is fulſom to the reſt of the Chriſtian World, that we ſhould fail in the execu<g ref="char:EOLhyphen"/>tion of this renowned Deſign, after we had ſpent ſo much Time and Oyl in ſtu<g ref="char:EOLhyphen"/>dying and contriving. Carry me to my Cloſe-ſtool again, I cannot bear it.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Moſt holy Father, The Experience you have had in this World, which I may well ſay, doth parallel your years, ſhou'd, if I may preſume to give my weak Opinion, not diſhearten the proſecution of your Intereſt. Look back a little, I be<g ref="char:EOLhyphen"/>ſeech you, upon the Times paſt, and obſerve the Tranſactions of thoſe Ages, when our Plots were crown'd with Succeſs. In the year 1561. although the <hi>Hugonots</hi> in <hi>France</hi> obtained many ſignal Victories againſt us <hi>Romaniſts,</hi> we at length out-ſtript them in Policy, when by contriving a Match for the Admiral of <hi>France,</hi> the Head of the <hi>Hugonots,</hi> we wheedled him to <hi>Paris,</hi> with all his Followers, a great many of the Nobility being among them, as the Prince of <hi>Conde,</hi> and others; when coming according to the Agreement of both Parties, unarmed, and when we had given them our Faith, that they ſhould not be moleſted, nor have the leaſt affront or injury offred to them, [but you know our Jeſuitical Maxim, to keep no Faith with Hereticks] the Marriage was ſolemnized, with all the Triumphs that are re<g ref="char:EOLhyphen"/>quiſite for ſuch a day, when, in fine, nothing of a Deſign being dream't on againſt that Party, the Admiral not being beloved by the Commonalty, had a Guard ſeemingly for his ſafety, but indeed intended for his deſtruction. He had been ſhot ſome time before from a Window, as he paſſed along the Streets, by a Party un<g ref="char:EOLhyphen"/>known, and at this inſtant lay ill of his Wounds; when one day, hearing a noiſe of Arms in his Houſe, and having very few Perſons with him, the principal where<g ref="char:EOLhyphen"/>of were two Chirurgions, a Miniſter, and one or two Servants, yet to ſhew him<g ref="char:EOLhyphen"/>ſelf a Man, would not ſeem daunted; but hearing the noiſe approach his Cham<g ref="char:EOLhyphen"/>ber, he cauſed his Friends about him to lift him out of his Bed, and putting on a Night-Gown, ſtood upon his Feet, and bade his Servants and Friends to ſhift for themſelves, and to take no care for him: At length they broke into his Chamber, and in that defenceleſs poſture, valiantly run a Sword in his Bowels, then ſtruck him down with a blow on the Head, when another, with a moſt undaunted cou<g ref="char:EOLhyphen"/>rage, ſhot him through the Breſt with a Piſtol, when the Duke of <hi>Guiſe,</hi> a true <hi>Ro<g ref="char:EOLhyphen"/>maniſt</hi> as ever piſt, ſtaying in the Court, cried out aloud, and asked, if the Work was done; anſwer being made it was, then cried the Duke of <hi>Guiſe,</hi> if ſuch a one, (meaning King <hi>Henry</hi>'s Baſtard) don't ſee it with his Eyes, he will not believe it; throw him out at Window: Then, to the joy of all bloody Hearts, down they threw him; which noble Act being performed, his Face being covered with Blood, by means of the Wound in his Head, for which reaſon it was difficult to diſcover, whether it was he or no; but the Duke of <hi>Guiſe</hi> to be certain, kneeled on the Ground, and wiping him with a Napkin, Now, ſaid he, I know him, it is he. The Rage they exerciſed upon his dead Carcaſs, by cutting off his Head, and moſt of
+<pb n="12" facs="tcp:101387:9"/>
+other Members, and then to drag him to the common Gallows, and there to Hang him up by the Feet, was a Deed worthy of none but <hi>Roman Catholicks;</hi> his Death was accompanied with the delicious murthering of about 100000 <hi>Hugo<g ref="char:EOLhyphen"/>nots</hi> more; for they gave them a Pattern at <hi>Paris,</hi> which they immediately imi<g ref="char:EOLhyphen"/>tated over the whole Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>This is a heal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Story, but it will work no Cure in me, for I grow worſe.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>I thought the Ghoſt of <hi>Guy Faux,</hi> and Biſhop <hi>Bonner,</hi> wou'd have paid their Reſpects to your Holineſs at this time too. There was an Age for you, that the latter lived in, when they ſent the <hi>Engliſh</hi> Hereticks hiſſing into the other World; that was a bleſſed Time: But for <hi>Guy Faux,</hi> let us not talk of him, and I fear too, that his Ghoſt is aſhamed to appear amongſt us, he was ſerved as we are now— Mum—not a word more of him. But when I think of <hi>Ireland,</hi> that Thought makes my Heart laugh within me; he that occupied the holy Chair then, reeled like a drunken Man; and truly, ſince your Holineſs hath given my Tongue freedom in your preſence, I do think in my Conſcience, that the ſuper<g ref="char:EOLhyphen"/>fluity he taſted of thoſe Hereticks Blood, did ſoundly fox him.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Call in my Chamberlains, and let me be carried to my Bed, I am ſick to death: Call in my Secretaries; for becauſe I will die like a true Father of the Church, my laſt Will and Teſtament, that I intend to leave behind me, ſhall ſhew how much like a Pope I died.</p>
+            </sp>
+            <stage>
+               <g ref="char:V">Ʋ</g>pon Order given, he was removed, his Secretary called to him, who in obedience to his Commands, drew the following Will, wherein he hath left a great many neceſſary Legacies.</stage>
+            <floatingText xml:lang="eng" type="will">
+               <body>
+                  <head>The <hi>Pope</hi>'s Laſt Will and Teſtament.</head>
+                  <p>
+                     <hi>I</hi> Give and bequeath my Soul to the Lot of him it falls to; my Body to the Earth, there to be decently interred, with all the humble Magnificence, meek Pride, and afflicted Oſtentation, of my Predeceſſors. To my very cordial Friend, the <hi>Great Turk,</hi> all the domineering Power, Religious Tyranny, and exquiſite Cruelty, that ſhall re<g ref="char:EOLhyphen"/>main among the Clergy at my deceaſe. <hi>Item,</hi> I give all the Nuns within my Reach and Power, to be ſent to the <hi>Seraglio</hi> at <hi>Conſtantinople,</hi> and their Chaſtity therein to be preſerved by the <hi>Great Turk,</hi> with the ſame Diſcretion it was in the Nunneries. <hi>Item,</hi> All the Prieſts and Friers I can graſp, I likewiſe give and bequeath to my truſty Friend the <hi>Grand Seignior,</hi> to be castrated and created Eunuchs, to be ſent to the <hi>Se<g ref="char:EOLhyphen"/>raglio,</hi> to give their Attendance on the aforeſaid Nuns. To the <hi>Barbarians</hi> of <hi>Africa,</hi> I give all the Jeſuits that ſhall be in my power at my deceaſe, that they may teach them Chriſtian Cruelty, and the way to Hell, by ſeeming to aim at Heaven. <hi>Item,</hi> To the <hi>Jews,</hi> who though they are my Enemies, I give and bequeath the Art and Power of Tranſubſtantiation, that they may eat our Saviour with the ſame Conſcience they cru<g ref="char:EOLhyphen"/>cified him. To the Witches of <hi>Lapland,</hi> all my Amulets, Charms, Miracles, Exorciſms, Conjurations, Imprecations, and Excommunications, for the uſe and benefit of them and their Heirs for ever. To the Kingdom of <hi>England,</hi> as many Curſes, as there are Letters in this my last Will and Teſtament.</p>
+                  <closer>
+                     <signed>Witneſs my Hand and Seal, <hi>Papa Eccleſiae Romanae.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>In the Preſence of
+<list>
+                           <item>
+                              <hi>Antonio Superſtitioſo,</hi>
+                           </item>
+                           <item>
+                              <hi>Cardinalis Superbus,</hi>
+                           </item>
+                           <item>
+                              <hi>Don Diego Irreligioſo.</hi>
+                           </item>
+                        </list>
+                     </p>
+                  </postscript>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
